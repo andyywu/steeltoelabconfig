@@ -10,4 +10,4 @@ Logging:
       Steeltoe: Debug
 eureka:
   client: 
-  validate_certificates: false
+      validate_certificates: false
