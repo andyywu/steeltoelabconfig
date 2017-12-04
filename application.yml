@@ -6,3 +6,5 @@ Logging:
   Console:
     LogLevel: 
       Default: Information
+      Pivotal: Debug
+      Steeltoe: Debug
